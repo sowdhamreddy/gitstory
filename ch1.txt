@@ -1,1 +1,2 @@
 hello is git repository chapter 1
+changed to branch new-area
